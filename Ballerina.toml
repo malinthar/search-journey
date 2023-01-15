@@ -1,0 +1,8 @@
+[package]
+org = "malintha"
+name = "search_journey"
+version = "0.1.0"
+distribution = "2201.3.2-rc1"
+
+[build-options]
+observabilityIncluded = true
